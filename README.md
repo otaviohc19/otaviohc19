@@ -25,5 +25,3 @@
 ![Blog](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Blog](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blog](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
-  
-![Snake animation](https://github.com/otaviohc19/otaviohc19/blob/output/github-contribution-grid-snake.svg)

@@ -1,4 +1,4 @@
-## Olá, sou Otávio Cardoso!
+## Olá, sou Otavio Cardoso!
 #### Sou estudante de Ciência da Computação e Técnico em Informática
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otaviohenrique19/)

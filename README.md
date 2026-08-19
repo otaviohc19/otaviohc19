@@ -10,11 +10,22 @@ Atuo com DevOps e infraestrutura em nuvem, gerenciando ambientes Kubernetes mult
 
 Alguns casos reais de arquitetura e diagnóstico estão documentados no meu [portfólio](https://otaviohc19.github.io/otaviorodrigues/) — incluindo a pipeline de segurança (SAST, secret scanning, SBOM) que sustenta o próprio site.
 
+<!--
+As estatísticas do GitHub abaixo foram removidas temporariamente: a instância
+pública compartilhada (github-readme-stats.vercel.app) está com o deployment
+pausado pelo mantenedor (503 DEPLOYMENT_PAUSED), não é um problema deste
+perfil. Para reativar, hospede sua própria instância gratuita no Vercel:
+https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+
+Depois de hospedada, troque o domínio nos <img src="..."> abaixo pelo seu:
+
 <div>
   <a href="https://github.com/otaviohc19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviohc19&layout=compact&langs_count=6&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviohc19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://SEU-DOMINIO.vercel.app/api/top-langs/?username=otaviohc19&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="180em" src="https://SEU-DOMINIO.vercel.app/api?username=otaviohc19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+-->
+
 
 ### Stack do dia a dia
 

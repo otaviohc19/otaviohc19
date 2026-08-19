@@ -15,9 +15,6 @@ Some real architecture and troubleshooting case studies are documented on my [po
 
 #### DevOps · Infraestrutura em Nuvem · Cibersegurança
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otaviohcardoso/)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-4C7EA8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://otaviohc19.github.io/otaviorodrigues/)
-
 Atuo com DevOps e infraestrutura em nuvem, gerenciando ambientes Kubernetes multi-cluster, pipelines de GitOps e a camada de rede, TLS e observabilidade que sustenta tudo isso. Trago uma lente de segurança pra decisões de infraestrutura do dia a dia, não só pra projetos rotulados como "segurança".
 
 Alguns casos reais de arquitetura e diagnóstico estão documentados no meu [portfólio](https://otaviohc19.github.io/otaviorodrigues/) — incluindo a pipeline de segurança (SAST, secret scanning, SBOM) que sustenta o próprio site.
